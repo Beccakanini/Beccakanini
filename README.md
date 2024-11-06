@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning about cybersecurity as I have discovered a new interest in that
 - ⚡ Fun fact: "Did you know? The first computer bug was a real moth found in a computer in 1947!"
 
+find my website right here:
+
 <!---
 Beccakanini/Beccakanini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
